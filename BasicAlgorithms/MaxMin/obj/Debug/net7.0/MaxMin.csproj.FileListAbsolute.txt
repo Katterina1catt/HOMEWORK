@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/bin/Debug/net7.0/MaxMin
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/bin/Debug/net7.0/MaxMin.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/bin/Debug/net7.0/MaxMin.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/bin/Debug/net7.0/MaxMin.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/bin/Debug/net7.0/MaxMin.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/refint/MaxMin.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/MaxMin.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/MaxMin/obj/Debug/net7.0/ref/MaxMin.dll

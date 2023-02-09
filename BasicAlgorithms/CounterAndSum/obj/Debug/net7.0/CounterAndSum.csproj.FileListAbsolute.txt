@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/bin/Debug/net7.0/CounterAndSum
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/bin/Debug/net7.0/CounterAndSum.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/bin/Debug/net7.0/CounterAndSum.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/bin/Debug/net7.0/CounterAndSum.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/bin/Debug/net7.0/CounterAndSum.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/refint/CounterAndSum.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/CounterAndSum.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/CounterAndSum/obj/Debug/net7.0/ref/CounterAndSum.dll

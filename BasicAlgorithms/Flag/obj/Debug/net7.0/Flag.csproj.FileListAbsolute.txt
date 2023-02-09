@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/bin/Debug/net7.0/Flag
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/bin/Debug/net7.0/Flag.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/bin/Debug/net7.0/Flag.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/bin/Debug/net7.0/Flag.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/bin/Debug/net7.0/Flag.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/refint/Flag.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/Flag.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Flag/obj/Debug/net7.0/ref/Flag.dll

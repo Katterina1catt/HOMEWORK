@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/021/bin/Debug/net7.0/021
+/Users/katerinasedova/Desktop/CS_Homework/021/bin/Debug/net7.0/021.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/021/bin/Debug/net7.0/021.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/021/bin/Debug/net7.0/021.dll
+/Users/katerinasedova/Desktop/CS_Homework/021/bin/Debug/net7.0/021.pdb
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.dll
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/refint/021.dll
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.pdb
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/021.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/021/obj/Debug/net7.0/ref/021.dll
