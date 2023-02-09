@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/bin/Debug/net7.0/Friends
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/bin/Debug/net7.0/Friends.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/bin/Debug/net7.0/Friends.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/bin/Debug/net7.0/Friends.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/bin/Debug/net7.0/Friends.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/refint/Friends.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/Friends.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Friends/obj/Debug/net7.0/ref/Friends.dll
