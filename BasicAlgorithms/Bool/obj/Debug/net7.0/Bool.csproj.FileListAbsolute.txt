@@ -1,0 +1,5 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Bool/obj/Debug/net7.0/Bool.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Bool/obj/Debug/net7.0/Bool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Bool/obj/Debug/net7.0/Bool.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Bool/obj/Debug/net7.0/Bool.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Bool/obj/Debug/net7.0/Bool.csproj.CoreCompileInputs.cache
