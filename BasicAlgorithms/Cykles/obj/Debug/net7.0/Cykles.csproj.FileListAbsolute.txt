@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/bin/Debug/net7.0/Cykles
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/bin/Debug/net7.0/Cykles.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/bin/Debug/net7.0/Cykles.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/bin/Debug/net7.0/Cykles.dll
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/bin/Debug/net7.0/Cykles.pdb
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.dll
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/refint/Cykles.dll
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.pdb
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/Cykles.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/Cykles/obj/Debug/net7.0/ref/Cykles.dll

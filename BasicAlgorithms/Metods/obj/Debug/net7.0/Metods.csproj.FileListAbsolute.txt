@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/bin/Debug/net7.0/Metods
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/bin/Debug/net7.0/Metods.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/bin/Debug/net7.0/Metods.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/bin/Debug/net7.0/Metods.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/bin/Debug/net7.0/Metods.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/refint/Metods.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/Metods.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Metods/obj/Debug/net7.0/ref/Metods.dll

@@ -8,12 +8,11 @@ t3=n/1000%10;
 t2=n/100%10;
 t1=n/10%10;
 t0=n%10;
-if (n<10000 && n>99999)
-    {if (t4 == t0 && t3 == t1)
+if (n>10000 && n<99999)
+    if (t4 == t0 && t3 == t1)
     System.Console.WriteLine("Число является полиндромом");
     else 
     System.Console.WriteLine("Число не является полиндромом");
-    }
 else 
 System.Console.WriteLine("Не пятизначное чило");
  

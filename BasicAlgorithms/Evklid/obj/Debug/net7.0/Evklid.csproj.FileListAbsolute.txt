@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/bin/Debug/net7.0/Evklid
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/bin/Debug/net7.0/Evklid.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/bin/Debug/net7.0/Evklid.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/bin/Debug/net7.0/Evklid.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/bin/Debug/net7.0/Evklid.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/refint/Evklid.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/Evklid.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Evklid/obj/Debug/net7.0/ref/Evklid.dll
