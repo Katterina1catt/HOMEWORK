@@ -8,4 +8,4 @@ for (int i=0;i<a.Length;i++)
 
 for (int i=0;i<a.Length;i++)
 
-System.Console.WriteLine($"{a[i]}");
+System.Console.Write($"{a[i]} ");

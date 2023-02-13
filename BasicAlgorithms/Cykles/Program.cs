@@ -17,7 +17,7 @@
 // while (i<=10);
 // {
 //     System.Console.WriteLine(i);
-//     //i+1=1
+//     i+1=1
 //     i++;
 // }
 // for(int i=1;i<=10;i++)
