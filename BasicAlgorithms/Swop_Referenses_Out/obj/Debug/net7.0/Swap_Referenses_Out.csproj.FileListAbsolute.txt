@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/bin/Debug/net7.0/Swap_Referenses_Out
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/bin/Debug/net7.0/Swap_Referenses_Out.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/bin/Debug/net7.0/Swap_Referenses_Out.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/bin/Debug/net7.0/Swap_Referenses_Out.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/bin/Debug/net7.0/Swap_Referenses_Out.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/refint/Swap_Referenses_Out.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/Swap_Referenses_Out.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Swop_Referenses_Out/obj/Debug/net7.0/ref/Swap_Referenses_Out.dll

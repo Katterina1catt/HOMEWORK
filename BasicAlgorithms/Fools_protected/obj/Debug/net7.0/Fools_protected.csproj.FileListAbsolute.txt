@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/bin/Debug/net7.0/Fools_protected
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/bin/Debug/net7.0/Fools_protected.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/bin/Debug/net7.0/Fools_protected.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/bin/Debug/net7.0/Fools_protected.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/bin/Debug/net7.0/Fools_protected.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/refint/Fools_protected.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/Fools_protected.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Fools_protected/obj/Debug/net7.0/ref/Fools_protected.dll
