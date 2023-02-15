@@ -1,0 +1,5 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.csproj.CoreCompileInputs.cache
