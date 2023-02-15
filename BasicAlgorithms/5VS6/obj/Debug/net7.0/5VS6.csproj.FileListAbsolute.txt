@@ -3,3 +3,13 @@
 /Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.AssemblyInfoInputs.cache
 /Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.AssemblyInfo.cs
 /Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/bin/Debug/net7.0/5VS6
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/bin/Debug/net7.0/5VS6.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/bin/Debug/net7.0/5VS6.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/bin/Debug/net7.0/5VS6.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/bin/Debug/net7.0/5VS6.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/refint/5VS6.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/5VS6.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/5VS6/obj/Debug/net7.0/ref/5VS6.dll

@@ -1,8 +1,9 @@
-﻿//NET.7 (C# 10, VB.NET, C++ CLI, IronPython).
+﻿// //NET.7 (C# 10, VB.NET, C++ CLI, IronPython).
 using System;
 namespace Example
 {
- class Program
+
+class Program
 {
     static void Main()//точка входа
     {
@@ -10,10 +11,3 @@ namespace Example
     }
 }
 }
-
-
-
-
-
-
-Console.WriteLine();
