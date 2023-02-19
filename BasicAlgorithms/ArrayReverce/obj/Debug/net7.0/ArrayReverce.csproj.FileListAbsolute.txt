@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/bin/Debug/net7.0/ArrayReverce
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/bin/Debug/net7.0/ArrayReverce.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/bin/Debug/net7.0/ArrayReverce.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/bin/Debug/net7.0/ArrayReverce.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/bin/Debug/net7.0/ArrayReverce.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/refint/ArrayReverce.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ArrayReverce.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/ArrayReverce/obj/Debug/net7.0/ref/ArrayReverce.dll
