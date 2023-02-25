@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/bin/Debug/net7.0/BinarnySearch
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/bin/Debug/net7.0/BinarnySearch.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/bin/Debug/net7.0/BinarnySearch.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/bin/Debug/net7.0/BinarnySearch.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/bin/Debug/net7.0/BinarnySearch.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/refint/BinarnySearch.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/BinarnySearch.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/BinarnySearch/obj/Debug/net7.0/ref/BinarnySearch.dll

@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/bin/Debug/net7.0/060
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/bin/Debug/net7.0/060.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/bin/Debug/net7.0/060.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/bin/Debug/net7.0/060.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/bin/Debug/net7.0/060.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/refint/060.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/060.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/060/obj/Debug/net7.0/ref/060.dll

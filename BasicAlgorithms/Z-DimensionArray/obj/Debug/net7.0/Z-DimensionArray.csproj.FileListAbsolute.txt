@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/bin/Debug/net7.0/Z-DimensionArray
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/bin/Debug/net7.0/Z-DimensionArray.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/bin/Debug/net7.0/Z-DimensionArray.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/bin/Debug/net7.0/Z-DimensionArray.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/bin/Debug/net7.0/Z-DimensionArray.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/refint/Z-DimensionArray.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/Z-DimensionArray.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Z-DimensionArray/obj/Debug/net7.0/ref/Z-DimensionArray.dll
