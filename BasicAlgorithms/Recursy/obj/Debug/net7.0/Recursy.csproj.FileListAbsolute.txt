@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/bin/Debug/net7.0/Recursy
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/bin/Debug/net7.0/Recursy.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/bin/Debug/net7.0/Recursy.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/bin/Debug/net7.0/Recursy.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/bin/Debug/net7.0/Recursy.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/refint/Recursy.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/Recursy.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Recursy/obj/Debug/net7.0/ref/Recursy.dll
