@@ -1,0 +1,15 @@
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/bin/Debug/net7.0/Частотный словарь
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/bin/Debug/net7.0/Частотный словарь.deps.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/bin/Debug/net7.0/Частотный словарь.runtimeconfig.json
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/bin/Debug/net7.0/Частотный словарь.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/bin/Debug/net7.0/Частотный словарь.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.csproj.AssemblyReference.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.AssemblyInfoInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.AssemblyInfo.cs
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.csproj.CoreCompileInputs.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/refint/Частотный словарь.dll
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.pdb
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/Частотный словарь.genruntimeconfig.cache
+/Users/katerinasedova/Desktop/CS_Homework/BasicAlgorithms/Частотный словарь/obj/Debug/net7.0/ref/Частотный словарь.dll
